@@ -1,2 +1,7 @@
 # hello-world
-Fiona's test project with a view to linking SQL Source Control to a Git repository. 10% time.
+
+Fiona Gazeley - Development Lead.
+
+This is part of my 10% time learning. Learning more about the tools that Redgate's tools work alongside.
+
+
